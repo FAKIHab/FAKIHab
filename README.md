@@ -1,7 +1,7 @@
 # 💫 About Me:
-saya adalah seorang Mahasiswa S1 Jurusan Sistem Informasi di ISB Atma Luhur Pangkalpinang. 
+Saya adalah seorang Mahasiswa S1 Jurusan Sistem Informasi di ISB Atma Luhur Pangkalpinang. 
 Hobi saya bermain musik dan mendengarkan lagu.
-saya sangat tertarik menjadi seorang web developer.
+Saya sangat tertarik menjadi seorang Web Developer.
 
 
 ## 🌐 Socials:
