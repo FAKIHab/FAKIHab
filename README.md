@@ -1,5 +1,7 @@
 # 💫 About Me:
-saya adalah seorang web developer dan saya suka bermain alat musik
+saya adalah seorang Mahasiswa S1 Jurusan Sistem Informasi di ISB Atma Luhur Pangkalpinang. 
+Hobi saya bermain musik dan mendengarkan lagu.
+saya sangat tertarik menjadi seorang web developer.
 
 
 ## 🌐 Socials:
